@@ -1,0 +1,9 @@
+# Ignore package.json and package-lock.json
+package.json
+package-lock.json
+
+# Ignore Jest config file
+jest.config.js
+
+# Ignore node_modules directory
+node_modules/
